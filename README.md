@@ -20,7 +20,7 @@
 
 <br><br>
 
-- :school: 2º year at [Software Engineer] at [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/).
+- :school: 2nd year in [Software Engineering] at [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I practice programming skills at `Leetcode`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
