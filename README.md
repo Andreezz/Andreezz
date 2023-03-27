@@ -31,8 +31,9 @@
  
 <div align="center">
 <p> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <p>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andreezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreezz&layout=compact&langs_count=6&theme=dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andregoncalvz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncalvz&layout=compact&langs_count=6&theme=dark"/>
 <img align="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreezz&theme=dark" alt="Andreezz" /> 
 </div>
 
