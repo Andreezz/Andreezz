@@ -24,6 +24,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I practice programming skills at `Leetcode`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- 🎮 I have a passion for video games and I'm also currently learning how to make them using `Unity`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](to be displayed).
 <br>
 
