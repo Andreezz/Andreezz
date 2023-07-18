@@ -8,10 +8,7 @@
 
 
 
-<div align="center"><br> 
-<p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Andreezz}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-</div>
+
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -67,13 +64,4 @@
 
 
 
- #
-<div align="center">
-<p> 🐍 A Snake Eating my Contributions Graph: </p>
-</div>
 
-
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
